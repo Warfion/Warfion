@@ -1,9 +1,7 @@
 ## Hi I'm Tom the IT-Solutionist..... 👋
 
-https://it-infrastructure.solutions/me/
-
-👋 Something about me: [[Link]([https://it-infrastructure.solutions](https://it-infrastructure.solutions/me/)) 
-📫 How to reach me: [[Link](https://it-infrastructure.solutions)
+👋 Something about me: [Link](https://it-infrastructure.solutions/me)
+📫 How to reach me: [Link](https://it-infrastructure.solutions)
 😄 Pronouns: He/Him/His
 
 <!--
